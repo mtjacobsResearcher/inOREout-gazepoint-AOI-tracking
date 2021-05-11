@@ -1,4 +1,4 @@
-% Matthew T. Jacobs. 4/19/2019 mtjacobs@ucsc.edu
+% Matthew T. Jacobs & Hannah Hart-Pomerantz. 4/19/2019 mtjacobs@ucsc.edu
 % Script written for Jennifer Day's Other Race Effect Study (ORE)
 % This script runs the analysis of data
 
