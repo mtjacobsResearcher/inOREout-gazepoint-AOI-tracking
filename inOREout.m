@@ -1,4 +1,4 @@
-% Matthew T. Jacobs, 4/19/2019
+% Matthew T. Jacobs & Hannah Hart-Pomerantz, 4/19/2019
 % Script written for Jennifer Day's Other Race Effect Study (ORE)
 % faceLocals = [#frame, diameter, diameter, xCoord, yCoord]
 % compressed = [time (sec), xCoord, yCoord, Validity]
