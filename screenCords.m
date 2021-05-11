@@ -1,4 +1,4 @@
-% Matthew T. Jacobs. 4/19/2019 mtjacobs@ucsc.edu
+% Matthew T. Jacobs, & Hannah Hart-Pomerantz. 4/19/2019 mtjacobs@ucsc.edu
 % This code is for Jenifer Day's Other Race Effect (ORE) study
 % It is a modification of demo code from Psychtoolbox
 % This program iterates through photos and allows oval AOE's to be drawn and recorded. 
