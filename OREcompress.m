@@ -1,4 +1,4 @@
-% Matthew T. Jacobs. 4/19/2019 mtjacobs@ucsc.edu
+% Matthew T. Jacobs & Hannah Hart-Pomerantz. 4/19/2019 mtjacobs@ucsc.edu
 % This code is for Jenifer Day's Other Race Effect (ORE) study
 % It takes raw Gazepoint Data and compresses it to 748 samples (one for
 % every sample frame. It will later be used to test whether a face was
